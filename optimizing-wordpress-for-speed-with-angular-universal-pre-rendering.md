@@ -1,4 +1,4 @@
-# Implementing Angular Universal for WordPress with Pre-Rendering
+# Optimizing WordPress for Speed with Angular Universal Pre-Rendering
 
 Growing websites seek optimum performance and quality content. While WordPress offers great flexibility as a content management system, serving vast amounts of dynamic data server-side poses scalability hurdles.
 
